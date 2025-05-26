@@ -14,10 +14,10 @@
   }
   
   body {
-    font-family: var(--fonte-principal);
-    background: var(--secundaria);
-    color: var(--texto);
-    line-height: 1.6;
+    background-image: url('img/Overworld_background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
   
   .container {
